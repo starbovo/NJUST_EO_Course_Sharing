@@ -1,0 +1,70 @@
+1.存储器的地址范围为：0x00000~0x7FFFF
+
+2.EALLOW;
+    XintfRegs.XINTCNF2.bit.XTIMCLK = 0;
+
+    XintfRegs.XINTCNF2.bit.WRBUFF = 3;
+
+    XintfRegs.XINTCNF2.bit.CLKOFF = 0;
+
+    XintfRegs.XINTCNF2.bit.CLKMODE = 0;   
+
+
+    XintfRegs.XTIMING6.bit.XWRLEAD = 1;
+    XintfRegs.XTIMING6.bit.XWRACTIVE = 2;
+    XintfRegs.XTIMING6.bit.XWRTRAIL = 1;
+
+    XintfRegs.XTIMING6.bit.XRDLEAD = 1;
+    XintfRegs.XTIMING6.bit.XRDACTIVE = 3;
+    XintfRegs.XTIMING6.bit.XRDTRAIL = 0;
+    
+
+    XintfRegs.XTIMING6.bit.X2TIMING = 0;
+ 
+ 
+    XintfRegs.XTIMING6.bit.USEREADY = 0;
+    XintfRegs.XTIMING6.bit.READYMODE = 0;
+ 
+
+    XintfRegs.XTIMING6.bit.XSIZE = 3;
+    EDIS; 
+
+XTIMING6寄存器中：XWRLEAD = 1    表示在X2TIMING = 0时，写访问的建立时间中等待1个周期；
+                  XWRACTIVE = 2  表示在X2TIMING = 0时，写访问的等待时间中等待2个周期；
+                  XWRTRAIL = 1   表示在X2TIMING = 0时，写访问的跟踪时间中等待2个周期；
+                  XRDLEAD = 1    表示在X2TIMING = 0时，读访问的建立时间中等待1个周期；
+                  XRDACTIVE = 3  表示在X2TIMING = 0时，读访问的等待时间中等待3个周期；
+                  XRDTRAIL = 0   表示在X2TIMING = 0时，读访问的跟踪时间中等待0个周期；
+                  X2TIMING = 0   表示设定部分寄存器实际值与寄存器中的设定值比值为1:1；
+                  USEREADY = 0   表示当访问该区域时，忽略XREADY新号；
+                  READYMODE = 0  表示同步采样；
+                  XSIZE = 3      表示设置为16位数据总线模式。
+
+XINTCNF2寄存器中：XTIMCLK = 0 表示系统时钟不进行2分频，令XTIMCLK = SYSCLKOUT；
+                  WRBUFF = 3  表示设置有3个写缓冲器；
+                  CLKOFF = 0  表示XCLKOUT被使能；
+                  CLKMODE = 0 表示系统时钟模式设置不进行2分频，令XCLKOUT = XTIMCLK 。
+
+
+
+3、XINTF 的配置主要是读写时序：
+读时序：
+tXRDLEAD = tACE - tDOE
+tXRDACTIVE = tRC + tOHA – tHZOE – (tAA – tDOE) 
+tXRDTRAIL = tHZCE - tHZOE
+// Zone read timing（tc=6.67ns）
+ XintfRegs.XTIMING6.bit.XRDLEAD = ;
+ XintfRegs.XTIMING6.bit.XRDACTIVE = ;
+XintfRegs.XTIMING6.bit.XRDTRAIL = ; 
+
+写时序：
+tXWRDLEAD
+tXWRACTIVE = tPBW1
+tXWRTRAIL
+// Zone write timing（tc=6.67ns）
+ XintfRegs.XTIMING6.bit.XWRLEAD =;
+ XintfRegs.XTIMING6.bit.XWRACTIVE =;
+XintfRegs.XTIMING6.bit.XWRTRAIL =;
+
+
+                 

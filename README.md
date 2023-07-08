@@ -24,7 +24,7 @@
 
 1. 点击右上角Fork本项目
    
-2. 创建文件目录：点击Add file - > Create new file , 在 BUAA_Course_Sharing/ 后面输入你的课程文件名字，然后按 / 即可生成目录，然后输入README.md，在下方的Edit new file输入课程介绍、注意事项与心得体会等等。
+2. 创建文件目录：点击Add file - > Create new file , 在 NJUST_EO_Course_Sharing/ 后面输入你的课程文件名字，然后按 / 即可生成目录，然后输入README.md，在下方的Edit new file输入课程介绍、注意事项与心得体会等等。
 
 3. 上传文件资料：进到对应目录下上传你的资料文件即可，直接把文件拖进游览器会自动上传，注意一次上传不能超过100个文件，且每个文件大小有25MB限制(可以上传大文件但是没研究)
 

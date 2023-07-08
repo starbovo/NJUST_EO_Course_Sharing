@@ -22,11 +22,13 @@
 
 操作步骤如下：
 
-1. 点击右上角Fork本项目
+1. 点击右上角Fork本项目，相当于拷贝了一个版本。
    
-2. 创建文件目录：点击Add file - > Create new file , 在 BUAA_Course_Sharing/ 后面输入你的课程文件名字，然后按 / 即可生成目录，然后输入README.md，在下方的Edit new file输入课程介绍、注意事项与心得体会等等。
+2. 创建文件目录：点击Add file - > Create new file , 在 NJUST_EO_Course_Sharing/ 后面输入你的课程文件名字，然后按 / 即可生成目录，然后输入README.md，在下方的Edit new file输入课程介绍、注意事项与心得体会等等。
 
 3. 上传文件资料：进到对应目录下上传你的资料文件即可，直接把文件拖进游览器会自动上传，注意一次上传不能超过100个文件，且每个文件大小有25MB限制(可以上传大文件但是没研究)
+
+4. 提交Pull Request，项目维护人员看到PR会通过，此操作将合并你的更新到仓库里。
 
 方法二：写一个Issue，由项目维护人员进行添加。
 
@@ -39,7 +41,9 @@
 
 ## 致谢
 感谢以下共同作者为本仓库贡献材料:
+[维多利加](https://github.com/Victorica123)
 
+[黄炫宇](https://github.com/DingdangDa)
 
 本项目由[北京航空航天大学(北航)课程作业资料共享平台](https://github.com/TheBloodthirster/BUAA_Course_Sharing)和[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 启发，部分方式参考北航项目构建。
 

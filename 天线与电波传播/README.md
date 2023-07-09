@@ -133,7 +133,7 @@ abcjs:
 
 #### 4、有效长度
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628204622133.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628204622133.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628204622133.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092135436.png)
 
 ## 第一章三节	互易定理和接收天线的电参量
 
@@ -209,13 +209,13 @@ abcjs:
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628182548506.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091628904.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628182609253.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628182609253.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628182609253.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092142884.png)
 
 ### 2、辐射功率、场强
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628182908464.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091629334.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628183033715.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628183033715.png)
+![](https://raw.githubusercontent.com/Center-cr/picture/main/202307092144954.png)
 
 ### 3、组合天线、基本振子、等效模型、方向图
 
@@ -223,7 +223,7 @@ abcjs:
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184053790.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091629376.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184251171.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184251171.png)
+![](https://raw.githubusercontent.com/Center-cr/picture/main/202307092145990.png)
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184307550.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091629267.png)
 
@@ -237,11 +237,11 @@ abcjs:
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184831572.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091629752.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184928338.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184928338.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628184928338.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092136022.png)
 
 ### 6、归一化方向函数、方向系数
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185039955.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185039955.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185039955.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092137054.png)
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185124347.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091629984.png)
 
@@ -249,7 +249,7 @@ abcjs:
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185309513.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091629015.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185446508.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185446508.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185446508.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092138416.png)
 
 ### 8、半功率角、方向图
 
@@ -259,7 +259,7 @@ abcjs:
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628185807501.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091630804.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628190045696.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628190045696.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628190045696.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092139829.png)
 
 ### 10、二半波振子、等幅同相、方向函数、方向图
 
@@ -343,7 +343,7 @@ abcjs:
 
 ![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628193030973.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307091635126.png)
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628193045571.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628193045571.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230628193045571.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092140460.png)
 
 ## 考试内容
 
@@ -569,7 +569,7 @@ abcjs:
 
 ### 频带宽度
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230629222237975.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230629222237975.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230629222237975.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092141046.png)
 
 ### 有效接收面积
 
@@ -585,7 +585,7 @@ abcjs:
 
 #### 普通端射阵
 
-![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230629223141593.png](http://bzjh.oss-cn-shanghai.aliyuncs.com/Typora_img/F/TYOPORA_Note/专业课/天线与电波/relative/image-20230629223141593.png)
+![ F/TYOPORA_Note/专业课/天线与电波/relative/image-20230629223141593.png](https://raw.githubusercontent.com/Center-cr/picture/main/202307092141530.png)
 
 #### 强方向性端射阵
 

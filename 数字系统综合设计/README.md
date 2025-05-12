@@ -6,4 +6,4 @@ https://github.com/starbovo/Digital-System-Design2022
 
 黄炫宇的：
 
-https://github.com/DingdangDa/NJUST-Integrated-Design-of-Digital-System-ES_design
+https://github.com/Dadingdang/NJUST-Integrated-Design-of-Digital-System-ES_design
